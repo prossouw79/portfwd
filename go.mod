@@ -1,4 +1,4 @@
-module github.com/gaetanlhf/portfwd
+module github.com/prossouw79/portfwd
 
 go 1.20
 
